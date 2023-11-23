@@ -1,0 +1,21 @@
+.searchContainer {
+  margin-top: 5rem;
+}
+
+form {
+  /* border: 2px solid red; */
+}
+
+form input[type="text"] {
+  padding: 1rem;
+  width: 50%;
+  font-size: 1.2rem;
+}
+form > button {
+  padding: 1rem;
+  width: 20%;
+  font-size: 1.2rem;
+  cursor: pointer;
+  background-color: black;
+  color: yellow;
+}
